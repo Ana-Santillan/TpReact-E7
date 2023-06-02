@@ -7,7 +7,7 @@ function App() {
   return (
     <>
       <Container className="my-5 main">
-        <h1 className="display-4 text-center">Administrar Colores</h1>
+        <h1 className="display-4 text-center">Administrar Empleados</h1>
         <hr />
         <ListaEmpleados></ListaEmpleados>
       </Container>
